@@ -1,6 +1,6 @@
 # 🐾 AniValientes
 
-**AniValientes** es una plataforma digital desarrollada para luchar contra el abandono animal. Permite a la ciudadanía reportar casos desde una app móvil y a las administraciones locales gestionarlos desde un panel web.
+**AniValientes** es una plataforma digital desarrollada para luchar contra el abandono animal. Permite a la ciudadanía denunciar casos desde una app móvil y a las administraciones locales gestionarlos desde un panel web.
 
 > Proyecto académico — Grado en Técnicas de Interacción Digital y Multimedia  
 > **Proyecto Media 3 - PR**  
@@ -49,6 +49,9 @@
 - Estadísticas (por estado, zonas, efectividad)
 - Gestión de usuarios institucionales y personalización visual
 
+🖥️ El panel está desplegado públicamente en:  
+🔗 [http://138.68.174.17:8080](http://138.68.174.17:8080)
+
 ---
 
 ## 🔐 Autenticación y roles
@@ -65,14 +68,14 @@
 
 ## 📚 Documentación de la API REST
 
-La documentación de todos los endpoints está disponible automáticamente con [Scribe](https://scribe.knuckles.wtf/):
+La documentación de todos los endpoints, generada con [Scribe](https://scribe.knuckles.wtf/), está disponible online en:
 
-🔗 [`http://localhost:8000/docs`](http://localhost:8000/docs)
+🔗 [http://138.68.174.17:8080/docs](http://138.68.174.17:8080/docs)
 
 Incluye:
 
 - Autenticación con token `Bearer`
-- Endpoints de login, creación de denuncia, consulta, respuesta
+- Endpoints para login, creación de denuncia, consulta, respuesta
 - Ejemplos en cURL, JavaScript y más
 
 ---
@@ -86,11 +89,13 @@ Incluye:
 
 ---
 
-## 📝 Licencia
+## 📝 Licencia y condiciones de uso
 
-Proyecto académico desarrollado como ejercicio final para la Universitat Oberta de Catalunya (UOC).  
-El código está disponible bajo licencia MIT.  
-**No destinado a producción real.**
+Este proyecto ha sido desarrollado como entrega académica en el marco del Grado en Multimedia de la Universitat Oberta de Catalunya (UOC).
+
+Se autoriza exclusivamente su uso con fines académicos y educativos, citando al autor.  
+Queda prohibido su uso comercial, reproducción total o parcial en otros contextos, o redistribución sin consentimiento expreso.
+
+© Jordi Hernández Vinyals, 2025
 
 ---
-
