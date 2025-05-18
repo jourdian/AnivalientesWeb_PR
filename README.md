@@ -87,6 +87,8 @@ Incluye:
 | Ciudadano     | alumnouocbcn@email.com        | password   |
 | Institucional | uocbcn@uoc.com                | password   |
 
+Solo se puede acceder al panel institucional con rol institucional. El usuario ciudadano solo puede acceder a la app móvil.
+
 ---
 
 ## 📝 Licencia y condiciones de uso
