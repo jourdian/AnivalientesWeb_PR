@@ -93,7 +93,7 @@ Solo se puede acceder al panel institucional con rol institucional. El usuario c
 
 ## 📝 Licencia y condiciones de uso
 
-Este proyecto ha sido desarrollado como entrega académica en el marco del Grado en Multimedia de la Universitat Oberta de Catalunya (UOC).
+Este proyecto ha sido desarrollado como entrega académica en el marco del Grado en Técnicas de Interacción Digital y Multimedia de la Universitat Oberta de Catalunya (UOC).
 
 Se autoriza exclusivamente su uso con fines académicos y educativos, citando al autor.  
 Queda prohibido su uso comercial, reproducción total o parcial en otros contextos, o redistribución sin consentimiento expreso.
